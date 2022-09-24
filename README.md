@@ -6,7 +6,7 @@ FullStack Software Developer
 
 *   🌍  I'm based in Lagos
 *   🖥️  See my portfolio at [Netlify](http://babajide-portfolio.netlify.app/)
-*   ✉️  You can contact me at [j.oyafemi@yahoo.com](mailto:j.oyafemi@yahoo.com)
+*   ✉️  You can contact me at [j.oyafemi@gmail.com](mailto:j.oyafemi@gmail.com)
 *   🚀  I'm currently working on [Project Explorer App](http://babajide-project-explorer.netlify.app)
 *   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on Frontend, backend, and fullstack projects
