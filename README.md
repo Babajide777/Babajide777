@@ -42,9 +42,20 @@ FullStack Software Developer
 <a href="https://www.linkedin.com/in/babajide-oyafemi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Jid_BOSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+
 ### Badges
+
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/Babajide777"><img src="https://github-readme-stats.vercel.app/api?username=Babajide777&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Babajide777's GitHub stats" /></a>
-<a href="http://www.github.com/Babajide777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Babajide777&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/Babajide777"><img src="https://activity-graph.herokuapp.com/graph?username=Babajide777&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/Babajide777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babajide777&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/Babajide777"><img src="https://github-readme-stats.vercel.app/api?username=Babajide777&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="Babajide777's GitHub stats" /></a>
+
+<a href="http://www.github.com/Babajide777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Babajide777&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Babajide777"><img src="https://activity-graph.herokuapp.com/graph?username=Babajide777&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Babajide777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babajide777&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Hire Me
+<a href="https://www.upwork.com/freelancers/~01efcad1f672850cd8" align="left"><img src="https://user-images.githubusercontent.com/67855455/192106300-c3a75b8a-8871-47a7-aa7e-a32880dbead4.png" alt="Upwork" /></a>
+[![Contact me on Codementor](https://www.codementor.io/m-badges/cdemeter007/im-a-cm-b.svg)](https://www.codementor.io/@cdemeter007?refer=badge)
