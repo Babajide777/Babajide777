@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Babajide Oyafemi
 ========================================================================================================================================
 
-FullStack Software Developer
+FullStack Software Engineer
 ----------------------------
 
-*   🌍  I'm based in the United Kingdom
+*   🌍  I am based in the United Kingdom
 *   🖥️  See my portfolio at [Netlify](http://babajide-portfolio.netlify.app/)
-*   ✉️  You can contact me at [j.oyafemi@gmail.com](mailto:j.oyafemi@gmail.com)
-*   🚀  I'm currently working on [Project Explorer App](http://babajide-project-explorer.netlify.app) and [Eventis](https://eventis.me/)
-*   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on Frontend, backend, and fullstack projects
 *   ⚡  I am also a technical writer
+
 ### Skills 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
