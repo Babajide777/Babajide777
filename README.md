@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Software Developer
 ----------------------------
 
-*   🌍  I'm based in Lagos
+*   🌍  I'm based in the United Kingdom
 *   🖥️  See my portfolio at [Netlify](http://babajide-portfolio.netlify.app/)
 *   ✉️  You can contact me at [j.oyafemi@gmail.com](mailto:j.oyafemi@gmail.com)
 *   🚀  I'm currently working on [Project Explorer App](http://babajide-project-explorer.netlify.app) and [Eventis](https://eventis.me/)
