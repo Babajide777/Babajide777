@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Babajide Oyafemi
 ========================================================================================================================================
 
-FullStack Software Engineer
-----------------------------
+FullStack Software Engineer | AI Engineer
+-----------------------------------------
 
 *   🌍  I am based in the United Kingdom
 *   🖥️  See my portfolio at [Netlify](http://babajide-portfolio.netlify.app/)
-*   🤝  I'm open to collaborating on Frontend, backend, and fullstack projects
+*   🤝  I'm open to collaborating on AI and Non-AI Frontend, backend, and full-stack projects
 *   ⚡  I am also a technical writer
 
 ### Skills 
