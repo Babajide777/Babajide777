@@ -32,8 +32,8 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 ---
 
-### 🏥 Healthcare Workforce Platform
-- Managed full-stack system for phlebotomist booking, scheduling, and operations  
+### 🏥 Phleotomist healthcare booking Platform
+- Managed full-stack system in healthcare for phlebotomist booking, scheduling, and operations  
 - Supports **5,000+ users** and contributes to **£300k+ annual revenue**  
 
 🔗 https://finder.bloodsandbeyond.co.uk/finder  
