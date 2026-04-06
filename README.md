@@ -5,7 +5,7 @@
 I build **scalable backend systems and AI-powered applications** that automate workflows, improve decision-making, and support real-world business operations.
 
 - 🌍 Based in the United Kingdom  
-- 🧠 Specializing in Backend Engineering (Node.js, NestJS, PostgreSQL) + AI Integration  
+- 🧠 Specializing in Backend Engineering (Node.js, NestJS, Laravel, Django) + AI Integration  
 - 💼 Open to Backend / Full-Stack / AI roles (UK & Remote)  
 - 🖥️ Portfolio: http://babajide-portfolio.netlify.app/  
 
@@ -22,29 +22,63 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Job Automation Platform
-- Built a system that automates job applications using AI workflows  
-- Integrated scraping, filtering, and auto-submission pipelines  
+### 🤖 AI Shift Management Platform
+- Built an AI-powered system for managing shifts 
 - Reduced manual application effort by **~90%**  
 
-**Tech:** Next.js, NestJS, OpenAI, PostgreSQL  
+🔗 https://www.qoryx.ai/  
+
+![AI Platform Screenshot](ADD_SCREENSHOT_LINK_HERE)
 
 ---
 
 ### 🏥 Healthcare Workforce Platform
-- Built full-stack system for managing healthcare staff and scheduling  
+- Managed full-stack system for phlebotomist booking, scheduling, and operations  
 - Supports **5,000+ users** and contributes to **£300k+ annual revenue**  
-- Designed scalable APIs and responsive frontend  
 
-**Tech:** Next.js, NestJS, PostgreSQL  
+🔗 https://finder.bloodsandbeyond.co.uk/finder  
+
+![Healthcare Platform Screenshot](ADD_SCREENSHOT_LINK_HERE)
 
 ---
 
-### 📊 Subscription Management SaaS
-- Built dynamic subscription system with configurable pricing logic  
-- Developed admin dashboards and backend services  
+### 👶 AI Parenting Assistant Platform
+- Built backend + admin dashboard for AI-powered parenting assistant  
+- Integrated LLM-based decision-making features  
 
-**Tech:** Next.js, GraphQL, Prisma, MUI  
+🔗 https://dev.kinderly.io/  
+
+![Kinderly Screenshot](ADD_SCREENSHOT_LINK_HERE)
+
+---
+
+### 🛒 Retail SaaS Platform (POS System)
+- Built backend systems for retail and transaction management  
+- Supports business operations and inventory workflows  
+
+🔗 https://retailcraft.com.ng/login  
+
+![Retail SaaS Screenshot](ADD_SCREENSHOT_LINK_HERE)
+
+---
+
+### 🏢 Enterprise Management Platform (GenSwift)
+- Built scalable backend architecture for enterprise workflow management  
+- Handles staff operations and business processes  
+
+🔗 https://app.genswift.com/  
+
+![GenSwift Screenshot](ADD_SCREENSHOT_LINK_HERE)
+
+---
+
+### 🛍️ E-commerce Platform
+- Built a full-stack e-commerce system with product and order management  
+- Designed scalable backend and responsive UI  
+
+🔗 https://www.babiesnstuffs.com/  
+
+![E-commerce Screenshot](ADD_SCREENSHOT_LINK_HERE)
 
 ---
 
@@ -53,27 +87,27 @@ I build **scalable backend systems and AI-powered applications** that automate w
 - Built applications using **OpenAI APIs and LLM workflows**
 - Designed **AI-powered automation systems**
 - Implemented **decision-support tools using AI**
-- Experience integrating AI into real production systems  
+- Integrated AI into production systems serving real users  
 
 ---
 
 ## 🧩 Tech Stack
 
 ### ⚙️ Backend (Core Strength)
-- Node.js, NestJS, Express  
-- REST APIs, GraphQL  
+- Node.js, NestJS, ExpressJS, Laravel, Django 
+- REST APIs, GraphQL, Microservices 
 - PostgreSQL, MongoDB, MySQL  
 
 ### 🎨 Frontend
-- React, Next.js  
-- TailwindCSS, Material UI  
+- React, Next.js, VueJs, NuxtJs 
+- TailwindCSS, Material UI, Shad CN
 
 ### 🧠 Languages
 - TypeScript, JavaScript, Python, PHP  
 
 ### ☁️ Tools
 - Git, GitHub  
-- AWS, Heroku, Netlify  
+- AWS, Heroku, Netlify, Digital Ocean
 
 ---
 
@@ -82,7 +116,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 - 💻 Built **50+ production applications**  
 - 👥 Systems used by **5,000+ users**  
 - 💰 Contributed to platforms generating **£300k+ annually**  
-- ⭐ Maintained **95%+ client satisfaction** (freelance work)  
+- ⭐ Maintained **95%+ client satisfaction**  
 
 ---
 
@@ -90,13 +124,11 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 - AI-powered automation tools  
 - Scalable backend systems  
-- Improving system design and performance  
+- Advanced system design and performance optimization  
 
 ---
 
 ## ✍️ Writing
-
-I share insights on backend engineering, AI, and system design:
 
 - https://babajide7.hashnode.dev  
 - https://www.dev.to/jid_boss  
@@ -130,6 +162,7 @@ I share insights on backend engineering, AI, and system design:
 
 ## 💼 Hire Me
 
+- LinkedIn: https://www.linkedin.com/in/babajide-oyafemi/  
 - Upwork: https://www.upwork.com/freelancers/~01efcad1f672850cd8  
 - Codementor: https://www.codementor.io/@cdemeter007  
 
