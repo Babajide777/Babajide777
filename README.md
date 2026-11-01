@@ -7,7 +7,8 @@ I build **scalable backend systems and AI-powered applications** that automate w
 - 🌍 Based in the United Kingdom  
 - 🧠 Specializing in Backend Engineering (Node.js, NestJS, Laravel, Django) + AI Integration  
 - 💼 Open to Backend / Full-Stack / AI roles (UK & Remote)  
-- 🖥️ Portfolio: http://babajide-portfolio.netlify.app/  
+- 🎓 MSc Applied Artificial Intelligence, University of Chester (2026)  
+- 🖥️ Portfolio: https://babajide-portfolio.netlify.app/  
 
 ---
 
@@ -23,22 +24,22 @@ I build **scalable backend systems and AI-powered applications** that automate w
 ## 🚀 Featured Projects
 
 ### 🤖 AI Shift Management Platform
-- Built an AI-powered system for managing shifts 
-- Reduced manual application effort by **~90%**  
+- Lead development of an AI-powered healthcare staffing platform at TSoul Consulting
+- Took LLM-driven workflows from prototype to production; reduced manual application effort by **~90%**  
 
 🔗 https://www.qoryx.ai/  
 
-![AI Platform Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![Qoryx AI shift management platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/qoryx.jpg)
 
 ---
 
-### 🏥 Phleotomist healthcare booking Platform
+### 🏥 Phlebotomist Healthcare Booking Platform (Bloods & Beyond)
 - Managed full-stack system in healthcare for phlebotomist booking, scheduling, and operations  
 - Supports **5,000+ users** and contributes to **£300k+ annual revenue**  
 
 🔗 https://finder.bloodsandbeyond.co.uk/finder  
 
-![Healthcare Platform Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![Bloods & Beyond phlebotomist finder](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/bloodsandbeyond.jpg)
 
 ---
 
@@ -46,9 +47,9 @@ I build **scalable backend systems and AI-powered applications** that automate w
 - Built backend + admin dashboard for AI-powered parenting assistant  
 - Integrated LLM-based decision-making features  
 
-🔗 https://dev.kinderly.io/  
+Built at HEX Africa, serving **1,000+ users**.
 
-![Kinderly Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![Kinderly AI parenting assistant](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/kinderly.png)
 
 ---
 
@@ -58,7 +59,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 🔗 https://retailcraft.com.ng/login  
 
-![Retail SaaS Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![RetailCraft POS](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/retailcraft.png)
 
 ---
 
@@ -68,7 +69,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 🔗 https://app.genswift.com/  
 
-![GenSwift Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![GenSwift enterprise platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/genswift.png)
 
 ---
 
@@ -78,7 +79,17 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 🔗 https://www.babiesnstuffs.com/  
 
-![E-commerce Screenshot](ADD_SCREENSHOT_LINK_HERE)
+![Babies n Stuffs e-commerce](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/babiesnstuffs.png)
+
+---
+
+### 📈 Reinforcement Learning for Cost-Aware Portfolio Rebalancing (MSc dissertation)
+- PPO agents (Stable-Baselines3) in a custom Gymnasium environment rebalancing a nine-ETF portfolio
+- Transaction costs embedded in the reward; cost-aware vs cost-blind agents compared across 40 runs with a two-level statistical protocol
+
+🔗 https://github.com/Babajide777/rl_portfolio  
+
+![RL portfolio rebalancing](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/rl-portfolio.jpg)
 
 ---
 
@@ -88,6 +99,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 - Designed **AI-powered automation systems**
 - Implemented **decision-support tools using AI**
 - Integrated AI into production systems serving real users  
+- Reinforcement learning research (PPO, Gymnasium, PyTorch) for my MSc dissertation  
 
 ---
 
