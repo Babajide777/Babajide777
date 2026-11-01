@@ -29,7 +29,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 🔗 https://www.qoryx.ai/  
 
-![Qoryx AI shift management platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/qoryx.jpg)
+![Qoryx AI shift management platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/qoryx.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 🔗 https://finder.bloodsandbeyond.co.uk/finder  
 
-![Bloods & Beyond phlebotomist finder](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/bloodsandbeyond.jpg)
+![Bloods & Beyond phlebotomist finder](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/bloodsandbeyond.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ I build **scalable backend systems and AI-powered applications** that automate w
 
 Built at HEX Africa, serving **1,000+ users**.
 
-![Kinderly AI parenting assistant](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/kinderly.png)
+![Kinderly AI parenting assistant](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/kinderly.png)
 
 ---
 
@@ -59,7 +59,7 @@ Built at HEX Africa, serving **1,000+ users**.
 
 🔗 https://retailcraft.com.ng/login  
 
-![RetailCraft POS](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/retailcraft.png)
+![RetailCraft POS](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/retailcraft.png)
 
 ---
 
@@ -69,7 +69,7 @@ Built at HEX Africa, serving **1,000+ users**.
 
 🔗 https://app.genswift.com/  
 
-![GenSwift enterprise platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/genswift.png)
+![GenSwift enterprise platform](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/genswift.png)
 
 ---
 
@@ -79,7 +79,7 @@ Built at HEX Africa, serving **1,000+ users**.
 
 🔗 https://www.babiesnstuffs.com/  
 
-![Babies n Stuffs e-commerce](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/babiesnstuffs.png)
+![Babies n Stuffs e-commerce](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/babiesnstuffs.png)
 
 ---
 
@@ -89,7 +89,7 @@ Built at HEX Africa, serving **1,000+ users**.
 
 🔗 https://github.com/Babajide777/rl_portfolio  
 
-![RL portfolio rebalancing](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/main/public/images/rl-portfolio.jpg)
+![RL portfolio rebalancing](https://raw.githubusercontent.com/Babajide777/portfolio-website-1/master/public/images/rl-portfolio.jpg)
 
 ---
 
